@@ -20,3 +20,7 @@ if you'll face pdfminer issue, run below
 pip3 uninstall pdfminer
 pip3 uninstall pdfminer-six
 pip3 install pdfminer-six 
+
+
+
+we will need "brew install tesseract"
